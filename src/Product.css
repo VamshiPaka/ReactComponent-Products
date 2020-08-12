@@ -1,0 +1,29 @@
+.product-card{
+    width:22%;
+    min-width: 240px;
+    margin: 1%;
+    border: 1px solid rgba(160,160,160,0.2) ;
+    background: white;
+    border-radius: 0 0 2px 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14) 0 1px 5px 0 rgb;
+}
+
+.product-card-content{
+    padding: 16px;
+}
+
+.product-card-image{
+    overflow: hidden;
+    height:50%;
+    
+}
+
+.product-card img{
+    width: 40%;
+    max-height: 250px;
+    
+}
+
+.product-title{
+    margin: 0;
+}
